@@ -1,4 +1,6 @@
 .cards {
+  border: 1px solid #212121
+  padding: 20px 0 40px;
 }
 
 .cards__list {
