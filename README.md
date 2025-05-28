@@ -13,12 +13,18 @@ The CSS uses a combination of grid display and flex display. There are media inq
 ### Screenshots
 
 Examples of layout can be found in the following screenshots:
-Default desktop display: https://i.postimg.cc/RF3Ttrh2/Screenshot-2025-05-26-223135.png
-Mobile display: https://i.postimg.cc/X7WwjBfR/Screenshot-2025-05-26-223355.png
-New post hover: https://i.postimg.cc/Nj5LBQnh/Screenshot-2025-05-26-223426.png
-Edit profile hover: https://i.postimg.cc/bNYsVxHw/Screenshot-2025-05-26-223438.png
-Heart button hover: https://i.postimg.cc/wxQ1kfNr/Screenshot-2025-05-26-223450.png
+
+- Default desktop display:
+  https://i.postimg.cc/RF3Ttrh2/Screenshot-2025-05-26-223135.png
+- Mobile display:
+  https://i.postimg.cc/X7WwjBfR/Screenshot-2025-05-26-223355.png
+- New post hover:
+  https://i.postimg.cc/Nj5LBQnh/Screenshot-2025-05-26-223426.png
+- Edit profile hover:
+  https://i.postimg.cc/bNYsVxHw/Screenshot-2025-05-26-223438.png
+- Heart button hover:
+  https://i.postimg.cc/wxQ1kfNr/Screenshot-2025-05-26-223450.png
 
 Link to project https://github.com/ashleymrodriguez/se_project_spots.git
 
-Video presentation https://youtu.be/l78po0vy57I
+Video presentation https://youtu.be/hEyWIMqdYKA
