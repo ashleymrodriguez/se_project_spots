@@ -25,6 +25,8 @@ Examples of layout can be found in the following screenshots:
 - Heart button hover:
   https://i.postimg.cc/wxQ1kfNr/Screenshot-2025-05-26-223450.png
 
-Link to project https://github.com/ashleymrodriguez/se_project_spots.git
+Link to project
+https://ashleymrodriguez.github.io/se_project_spots/
 
-Video presentation https://youtu.be/hEyWIMqdYKA
+Video presentation
+https://youtu.be/hEyWIMqdYKA
