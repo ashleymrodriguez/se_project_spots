@@ -12,9 +12,9 @@ const editProfileDescriptionEl = editProfileModal.querySelector(
 const newPostBtn = document.querySelector(".profile__add-btn");
 const newPostModal = document.querySelector("#new-post-modal");
 const newPostCloseBtn = newPostModal.querySelector(".modal__close-btn");
+const newPostForm = newPostModal.querySelector(".modal__form");
 const newPostImageLinkInput = newPostModal.querySelector("#image-link-input");
 const newPostCaptionInput = newPostModal.querySelector("#caption-input");
-
 const profileNameEl = document.querySelector(".profile__name");
 const profileDescriptionEl = document.querySelector(".profile__description");
 
@@ -45,9 +45,10 @@ function handleEditProfileSubmit(evt) {
 
 editProfileForm.addEventListener("submit", handleEditProfileSubmit);
 
+newPostForm.addEventListener("submit", handleNewPostSave);
+
 function handleNewPostSave(evt) {
   evt.preventDefault();
-  newPostModal.textContent = newPostImageLinkInput.value;
-  newPostModal.textContent = newPostCaptionInput.value;
   newPostModal.classList.remove("modal_is-opened");
+  console.log("New post uploaded successfully!");
 }
