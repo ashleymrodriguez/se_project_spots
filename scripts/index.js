@@ -50,5 +50,6 @@ newPostForm.addEventListener("submit", handleNewPostSave);
 function handleNewPostSave(evt) {
   evt.preventDefault();
   newPostModal.classList.remove("modal_is-opened");
-  console.log("New post uploaded successfully!");
+  console.log(newPostImageLinkInput.value);
+  console.log(newPostCaptionInput.value);
 }
