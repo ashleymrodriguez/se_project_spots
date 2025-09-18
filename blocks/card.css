@@ -9,6 +9,7 @@
   border-radius: 8px;
   object-fit: cover;
   display: block;
+  cursor: pointer;
 }
 
 .card__content {
@@ -50,6 +51,11 @@
   height: 20px;
   border: 0;
   opacity: 0.4;
+}
+
+.card__delete-btn:hover {
+  cursor: pointer;
+  background-image: url(../images/delete-hover.png);
 }
 
 .card__like-btn_active {
